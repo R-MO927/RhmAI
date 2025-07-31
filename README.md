@@ -1,1 +1,1 @@
-# RhmAI
+#movie-recommendation-system
